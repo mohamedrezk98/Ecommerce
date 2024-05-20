@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/Ecommerce/static/css/main.4ca01ea5.css",
+    "main.js": "/Ecommerce/static/js/main.de38883d.js",
+    "static/js/787.e5fee53e.chunk.js": "/Ecommerce/static/js/787.e5fee53e.chunk.js",
+    "static/media/light-patten.svg": "/Ecommerce/static/media/light-patten.ed706aff39a009de4e8001ed31f5a17c.ed706aff39a009de4e80.svg",
+    "static/media/fa-solid-900.ttf": "/Ecommerce/static/media/fa-solid-900.45a265d0f07b31cde85f.ttf",
+    "static/media/fa-brands-400.ttf": "/Ecommerce/static/media/fa-brands-400.6205fd00fb1b573e9f0f.ttf",
+    "static/media/main-slider-4.jpg": "/Ecommerce/static/media/main-slider-4.8953f72b1a3c0129e2a4.jpg",
+    "static/media/fa-solid-900.woff2": "/Ecommerce/static/media/fa-solid-900.fb8184add5a3101ad0a3.woff2",
+    "static/media/main-slider-1.jpg": "/Ecommerce/static/media/main-slider-1.f2fc684b9ce8f50047b6.jpg",
+    "static/media/fa-brands-400.woff2": "/Ecommerce/static/media/fa-brands-400.8d3cabfc66809162fb4d.woff2",
+    "static/media/error.svg": "/Ecommerce/static/media/error.084f5f5b0eb10d3216cb7c939108e1f6.svg",
+    "static/media/main-slider-2.jpg": "/Ecommerce/static/media/main-slider-2.f8c0fc2f02815f7a7888.jpg",
+    "static/media/main-slider-5.jpg": "/Ecommerce/static/media/main-slider-5.e3fe8ee98570127e15ba.jpg",
+    "static/media/fa-regular-400.ttf": "/Ecommerce/static/media/fa-regular-400.adc51aab4d771ab65f81.ttf",
+    "static/media/fa-regular-400.woff2": "/Ecommerce/static/media/fa-regular-400.e931bc0d14f5bbb1da22.woff2",
+    "static/media/Download_on_the_App_Store_Badge.svg.png": "/Ecommerce/static/media/Download_on_the_App_Store_Badge.svg.af7387c62ffc4d6fdb20.af7387c62ffc4d6fdb20.png",
+    "static/media/fa-v4compatibility.ttf": "/Ecommerce/static/media/fa-v4compatibility.2eb7b3ef25042305f3ff.ttf",
+    "static/media/freshcart-logo.svg": "/Ecommerce/static/media/freshcart-logo.53f7a424c3aedc30a0fb46dc2278137c.svg",
+    "static/media/675747.webp": "/Ecommerce/static/media/675747.3fa555d9abbc4dda953b.3fa555d9abbc4dda953b.webp",
+    "static/media/google-play-badge-logo.svg": "/Ecommerce/static/media/google-play-badge-logo.43450edc3252606b6b3a9b9371267972.43450edc3252606b6b3a9b9371267972.svg",
+    "static/media/fa-v4compatibility.woff2": "/Ecommerce/static/media/fa-v4compatibility.b3049b13a93f07e026fc.woff2",
+    "static/media/slick.svg": "/Ecommerce/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/Ecommerce/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/Ecommerce/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/paypal.svg": "/Ecommerce/static/media/paypal.8a12e34dbc942932e1022731d4d1eabb.svg",
+    "static/media/slick.woff": "/Ecommerce/static/media/slick.295183786cd8a1389865.woff",
+    "static/media/visa-1.svg": "/Ecommerce/static/media/visa-1.ad2bb48c5ec1cd1e30181ae59c8fdc18.svg",
+    "index.html": "/Ecommerce/index.html",
+    "static/media/master.svg": "/Ecommerce/static/media/master.c66dbbec26938c040843d4706a1965e1.svg",
+    "main.4ca01ea5.css.map": "/Ecommerce/static/css/main.4ca01ea5.css.map",
+    "main.de38883d.js.map": "/Ecommerce/static/js/main.de38883d.js.map",
+    "787.e5fee53e.chunk.js.map": "/Ecommerce/static/js/787.e5fee53e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4ca01ea5.css",
+    "static/js/main.de38883d.js"
+  ]
+}
