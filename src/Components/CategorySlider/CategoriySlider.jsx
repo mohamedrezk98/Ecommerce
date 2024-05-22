@@ -19,7 +19,33 @@ export default function CategorySlider() {
     speed: 500,
     slidesToShow: 6,
     slidesToScroll: 1,
-    autoplay: true
+    autoplay: true,
+    responsive: [
+      {
+        breakpoint: 1024,
+        settings: {
+          slidesToShow: 3,
+          slidesToScroll: 3,
+          infinite: true,
+          dots: true
+        }
+      },
+      {
+        breakpoint: 600,
+        settings: {
+          slidesToShow: 2,
+          slidesToScroll: 2,
+          initialSlide: 2
+        }
+      },
+      {
+        breakpoint: 480,
+        settings: {
+          slidesToShow: 1,
+          slidesToScroll: 1
+        }
+      }
+    ]
   };
   return (
     <div className="container">
@@ -28,7 +54,7 @@ export default function CategorySlider() {
           {
 
             categories.map((item) => (<div key={item._id} >
-              <img   src={item.image} height={250} className='w-100 my-4 px-1 ' alt="" />
+              <img   src={item.image} height={250} className='w-100 my-4 px-1' alt="" />
              <h5 className='text-center rounded '>{item.name}</h5>
             </div>
 

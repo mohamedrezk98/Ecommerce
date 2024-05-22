@@ -54,8 +54,8 @@ export default function SignUp() {
   })
   return (
     <div>
-      <div className="w-75 m-auto ">
-        <h2>register</h2>
+      <div className="w-75 m-auto my-5">
+        <h2>register :</h2>
         <form onSubmit={register.handleSubmit}>
           <label htmlFor="Name">Name:</label>
           <input onBlur={register.handleBlur }  autoComplete="on"  onChange={register.handleChange} type="text" name='name' id='Name' className={`form-control mb-3 ${register.errors.name && register.touched.name ? 'is-invalid ' : ''}`} />
@@ -75,7 +75,7 @@ export default function SignUp() {
         
           {errMsg ? <div className="alert text-bg-danger">{errMsg}</div> : ''}
 
-          <button disabled={!(register.dirty && register.isValid)} type='submit' className='btn bg-main text-white' > siginup</button>
+          <button disabled={!(register.dirty && register.isValid)} type='submit' className='btn bg-main text-white px-4 py-2' > siginup</button>
         </form>
       </div>
     </div>

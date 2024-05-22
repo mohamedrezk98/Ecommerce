@@ -50,8 +50,8 @@ export default function Signin() {
   })
   return (
     <div>
-      <div className="w-75 m-auto ">
-        <h2>login</h2>
+      <div className="w-75 m-auto my-5 ">
+        <h2>login :</h2>
         <form onSubmit={login.handleSubmit}>
          
           <label htmlFor="email">E-mail:</label>
@@ -66,7 +66,7 @@ export default function Signin() {
         
           {errMsg ? <div className="alert text-bg-danger">{errMsg}</div> : ''}
 
-          <button disabled={!(login.dirty && login.isValid)} type='submit' className='btn bg-main text-white' > Signin</button>
+          <button disabled={!(login.dirty && login.isValid)} type='submit' className='btn bg-main text-white px-4 py-2' > Signin</button>
         </form>
       </div>
     </div>
